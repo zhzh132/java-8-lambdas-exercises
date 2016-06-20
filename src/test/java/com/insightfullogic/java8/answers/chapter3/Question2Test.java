@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import java.util.Arrays;
 
-import static com.insightfullogic.java8.answers.chapter3.Question2.countBandMembersInternal;
+import static zz.java8.answers.chapter3.Question2.countBandMembersInternal;
 import static org.junit.Assert.assertEquals;
 
 public class Question2Test {
