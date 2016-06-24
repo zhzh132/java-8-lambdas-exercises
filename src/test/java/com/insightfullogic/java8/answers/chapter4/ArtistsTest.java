@@ -13,7 +13,7 @@ import static org.junit.Assert.assertFalse;
 
 public class ArtistsTest {
 
-    private final ArtistsFixed optionalExamples = new ArtistsFixed(SampleData.getThreeArtists());
+    private final zz.java8.answers.chapter4.ArtistsFixed optionalExamples = new zz.java8.answers.chapter4.ArtistsFixed(SampleData.getThreeArtists());
 
     @Test
     public void indexWithinRange() {
